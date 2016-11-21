@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="YelloPages_Ver_3_ServLis_Css">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="YelloPages_Ver_3_ServLis_Css"/>
+        <property name="java-output-path" value="/YelloPages_Ver_3_ServLis_Css/build/classes"/>
+    </wb-module>
+</project-modules>

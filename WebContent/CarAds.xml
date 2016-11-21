@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<car>
+	<car-details>
+		<name>i10</name>
+		<year>2010</year>
+		<model>lxi</model>
+	</car-details>
+
+	<car-details>
+		<name>i10</name>
+		<year>2010</year>
+		<model>lxi</model>
+	</car-details>
+
+</car>
+
